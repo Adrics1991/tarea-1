@@ -3,7 +3,7 @@
 Este proyecto consiste en una página web sencilla en HTML donde se aplican mejoras progresivas trabajando con ramas y Pull Requests.
 
 ## 📑 Tabla de contenido
-- [Instalación](##instalación)
+- [Instalación](#Instalación)
 - [Estructura](#estructura)
 - [Mejoras implementadas](#mejoras-implementadas)
 - [Autores](#autores)
