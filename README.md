@@ -8,17 +8,17 @@ Este proyecto consiste en una página web sencilla en HTML donde se aplican mejo
 - [Mejoras implementadas](#Mejoras-implementadas)
 - [Autores](#Autores)
 
-## 🚀 Instalación
+##Instalación
 Descarga el repositorio en tu máquina local:
 
 https://github.com/Adrics1991/tarea-1
 
 
-## 🛰️ Tecnologías-implementadas
+##Tecnologías-implementadas
 HTML con Visual Studio
 Consola de comandos de windows
 
-##  🧑‍💻 Mejoras-implementadas
+##Mejoras-implementadas
 Creación de un menú de navegación con enlaces interno
 Creación de un formulario de contacto
 - Nombre
@@ -26,5 +26,5 @@ Creación de un formulario de contacto
 - Mensaje
 - Botón de enviar
 
-## 👨‍🚀 Autores
+##Autores
 Adrián Catarecha
