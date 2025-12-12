@@ -14,7 +14,7 @@ Descarga el repositorio en tu máquina local:
 https://github.com/Adrics1991/tarea-1
 
 
-## Tecnologías-implementadas
+## :thunder Tecnologías-implementadas
 HTML con Visual Studio
 Consola de comandos de windows
 
